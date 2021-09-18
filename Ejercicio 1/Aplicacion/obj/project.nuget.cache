@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wAsk1UQXHohdEtfuzgbrRvRJOMUE4+Gh6IvX1UejIK3nfQkohJdwLLlA1WCh6NqzhJfjbiLsukhFLEbCUKcinw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ricar\\source\\repos\\Aplicacion\\Aplicacion\\Aplicacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\bootstrap\\5.1.0\\bootstrap.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
