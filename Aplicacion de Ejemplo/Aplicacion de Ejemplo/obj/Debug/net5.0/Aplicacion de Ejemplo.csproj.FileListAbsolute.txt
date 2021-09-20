@@ -1,0 +1,50 @@
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\appsettings.Development.json
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\appsettings.json
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\Aplicacion de Ejemplo.exe
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\Aplicacion de Ejemplo.deps.json
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\Aplicacion de Ejemplo.runtimeconfig.json
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\Aplicacion de Ejemplo.runtimeconfig.dev.json
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\Aplicacion de Ejemplo.dll
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\ref\Aplicacion de Ejemplo.dll
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\Aplicacion de Ejemplo.pdb
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\Aplicacion de Ejemplo.Views.dll
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\bin\Debug\net5.0\Aplicacion de Ejemplo.Views.pdb
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.csprojAssemblyReference.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.AssemblyInfoInputs.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.AssemblyInfo.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.csproj.CoreCompileInputs.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.MvcApplicationPartsAssemblyInfo.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.RazorAssemblyInfo.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.RazorAssemblyInfo.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\staticwebassets\Aplicacion de Ejemplo.StaticWebAssets.Manifest.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\staticwebassets\Aplicacion de Ejemplo.StaticWebAssets.xml
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\scopedcss\bundle\Aplicacion de Ejemplo.styles.css
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.TagHelpers.input.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.TagHelpers.output.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.RazorCoreGenerate.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.RazorTargetAssemblyInfo.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.RazorTargetAssemblyInfo.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.Views.pdb
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.dll
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\ref\Aplicacion de Ejemplo.dll
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.pdb
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.genruntimeconfig.cache
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Aplicacion de Ejemplo.csproj.CopyComplete
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Home\Contactenos.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Casa\Index.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Comics\Categorias.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Comics\Index.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Mangas\Categorias.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Mangas\Index.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Peliculas\Categorias.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Peliculas\Index.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Series\Categorias.cshtml.g.cs
+D:\Main\VisualStudio\Aplicacion de Ejemplo\Aplicacion de Ejemplo\obj\Debug\net5.0\Razor\Views\Series\Index.cshtml.g.cs
