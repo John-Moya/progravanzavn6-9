@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "contactenos";
+}
+
+<h1>Contactenos</h1>
+<div class="row g-3">
+    <div class="col">
+        <label for="inputNombres" class="form-label">Nombre</label>
+        <input type="text" class="form-control" placeholder="Nombre" aria-label="Nombre">
+    </div>
+    <div class="col">
+        <label for="inputApellidos" class="form-label">Apellidos</label>
+        <input type="text" class="form-control" placeholder="Apellidos" aria-label="Apellidos">
+    </div>
+</div>
+
+<form class="row g-3">
+    <div class="col-md-6">
+        <label for="inputEmail4" class="form-label">Email</label>
+        <input type="email" class="form-control" id="inputEmail4">
+    </div>
+    <div class="col-md-6">
+        <label for="inputNumber" class="form-label">Teléfono</label>
+        <input type="number" class="form-control" id="inputNumber">
+    </div>
+    <div class="col-12">
+        <label for="inputAddress" class="form-label">Dirección</label>
+        <input type="text" class="form-control" id="inputAddress">
+    </div>
+  
+    <div class="col-12">
+        <div class="form-check">
+            <label class="form-check-label" for="gridCheck">
+                ¡Muchas Gracias!
+                Te contactaremos pronto.
+            </label>
+        </div>
+    </div>
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Enviar</button>
+    </div>
+</form>
