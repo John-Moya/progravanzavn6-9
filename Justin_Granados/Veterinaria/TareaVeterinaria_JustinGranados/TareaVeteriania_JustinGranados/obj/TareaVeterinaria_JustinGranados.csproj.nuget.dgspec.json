@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\justi\\source\\repos\\progravanzavn6-9\\Justin_Granados\\Veterinaria\\TareaVeterinaria_JustinGranados\\TareaVeteriania_JustinGranados\\TareaVeterinaria_JustinGranados.csproj": {}
+    "C:\\Users\\Justin_Granados\\source\\repos\\progravanzavn6-9\\Justin_Granados\\Veterinaria\\TareaVeterinaria_JustinGranados\\TareaVeteriania_JustinGranados\\TareaVeterinaria_JustinGranados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\justi\\source\\repos\\progravanzavn6-9\\Justin_Granados\\Veterinaria\\TareaVeterinaria_JustinGranados\\TareaVeteriania_JustinGranados\\TareaVeterinaria_JustinGranados.csproj": {
+    "C:\\Users\\Justin_Granados\\source\\repos\\progravanzavn6-9\\Justin_Granados\\Veterinaria\\TareaVeterinaria_JustinGranados\\TareaVeteriania_JustinGranados\\TareaVeterinaria_JustinGranados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\justi\\source\\repos\\progravanzavn6-9\\Justin_Granados\\Veterinaria\\TareaVeterinaria_JustinGranados\\TareaVeteriania_JustinGranados\\TareaVeterinaria_JustinGranados.csproj",
+        "projectUniqueName": "C:\\Users\\Justin_Granados\\source\\repos\\progravanzavn6-9\\Justin_Granados\\Veterinaria\\TareaVeterinaria_JustinGranados\\TareaVeteriania_JustinGranados\\TareaVeterinaria_JustinGranados.csproj",
         "projectName": "TareaVeterinaria_JustinGranados",
-        "projectPath": "C:\\Users\\justi\\source\\repos\\progravanzavn6-9\\Justin_Granados\\Veterinaria\\TareaVeterinaria_JustinGranados\\TareaVeteriania_JustinGranados\\TareaVeterinaria_JustinGranados.csproj",
-        "packagesPath": "C:\\Users\\justi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\justi\\source\\repos\\progravanzavn6-9\\Justin_Granados\\Veterinaria\\TareaVeterinaria_JustinGranados\\TareaVeteriania_JustinGranados\\obj\\",
+        "projectPath": "C:\\Users\\Justin_Granados\\source\\repos\\progravanzavn6-9\\Justin_Granados\\Veterinaria\\TareaVeterinaria_JustinGranados\\TareaVeteriania_JustinGranados\\TareaVeterinaria_JustinGranados.csproj",
+        "packagesPath": "C:\\Users\\Justin_Granados\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Justin_Granados\\source\\repos\\progravanzavn6-9\\Justin_Granados\\Veterinaria\\TareaVeterinaria_JustinGranados\\TareaVeteriania_JustinGranados\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\justi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Justin_Granados\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
