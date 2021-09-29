@@ -1,0 +1,54 @@
+﻿@model Hospital_Covid_CEACO.Models.Camillas
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Camillas</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="cedula" />
+            <div class="form-group">
+                <label asp-for="nombre" class="control-label"></label>
+                <input asp-for="nombre" class="form-control" />
+                <span asp-validation-for="nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="primerApellido" class="control-label"></label>
+                <input asp-for="primerApellido" class="form-control" />
+                <span asp-validation-for="primerApellido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="segundoApellido" class="control-label"></label>
+                <input asp-for="segundoApellido" class="form-control" />
+                <span asp-validation-for="segundoApellido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="numeroCamilla" class="control-label"></label>
+                <input asp-for="numeroCamilla" class="form-control" />
+                <span asp-validation-for="numeroCamilla" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="estadoDeIngreso" class="control-label"></label>
+                <input asp-for="estadoDeIngreso" class="form-control" />
+                <span asp-validation-for="estadoDeIngreso" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
