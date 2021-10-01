@@ -1,0 +1,71 @@
+﻿@model Semana2_Practica.Models.Expediente
+
+@{
+    ViewData["Title"] = "Create";
+}
+<head>
+    <link href="~/css/Inicio.css" rel="stylesheet" />
+</head>
+
+
+
+<div class="jumbotron">
+
+    <h1>Agregar Expedientes</h1>
+
+    <h4>Expediente</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Nombre" class="control-label"></label>
+                    <input asp-for="Nombre" class="form-control" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Especie" class="control-label"></label>
+                    <input asp-for="Especie" class="form-control" />
+                    <span asp-validation-for="Especie" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Raza" class="control-label"></label>
+                    <input asp-for="Raza" class="form-control" />
+                    <span asp-validation-for="Raza" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Color" class="control-label"></label>
+                    <input asp-for="Color" class="form-control" />
+                    <span asp-validation-for="Color" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Edad" class="control-label"></label>
+                    <input asp-for="Edad" class="form-control" />
+                    <span asp-validation-for="Edad" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Peso" class="control-label"></label>
+                    <input asp-for="Peso" class="form-control" />
+                    <span asp-validation-for="Peso" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Sexo" class="control-label"></label>
+                    <input asp-for="Sexo" class="form-control" />
+                    <span asp-validation-for="Sexo" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Crear Expediente" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Volver a la lista</a>
+    </div>
+</div>
+    
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
