@@ -1,0 +1,944 @@
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.csproj.AssemblyReference.cache
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.AssemblyInfoInputs.cache
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.AssemblyInfo.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.MvcApplicationPartsAssemblyInfo.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.MvcApplicationPartsAssemblyInfo.cache
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.RazorAssemblyInfo.cache
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.RazorAssemblyInfo.cs
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/appsettings.Development.json
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/appsettings.json
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.StaticWebAssets.xml
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/app.db
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.deps.json
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.runtimeconfig.json
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.runtimeconfig.dev.json
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ref/VentaOnlineArticulos.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.pdb
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/mscorlib.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/netstandard.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.AppContext.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Buffers.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Collections.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Configuration.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Console.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Core.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Data.Common.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Data.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Drawing.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Globalization.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Compression.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Linq.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Memory.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Http.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Mail.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Ping.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Requests.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Security.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Numerics.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ObjectModel.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Claims.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Principal.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.Json.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Transactions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ValueTuple.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Web.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Windows.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/refs/WindowsBase.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.Views.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.Views.pdb
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Humanizer.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/steven/Projects/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/staticwebassets/VentaOnlineArticulos.StaticWebAssets.Manifest.cache
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/staticwebassets/VentaOnlineArticulos.StaticWebAssets.xml
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/scopedcss/bundle/VentaOnlineArticulos.styles.css
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.TagHelpers.input.cache
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.TagHelpers.output.cache
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.RazorCoreGenerate.cache
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/articulo/Create.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/articulo/Delete.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/articulo/Details.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/articulo/Edit.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/articulo/Index.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Articulos/Articulos.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Articulos/Principal.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Pedidos/Create.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Pedidos/Delete.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Pedidos/Details.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Pedidos/Edit.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Pedidos/Index.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.RazorTargetAssemblyInfo.cache
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.RazorTargetAssemblyInfo.cs
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.Views.pdb
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.csproj.CopyComplete
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.dll
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/ref/VentaOnlineArticulos.dll
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.pdb
+/Users/steven/Projects/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.genruntimeconfig.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/appsettings.Development.json
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/appsettings.json
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.StaticWebAssets.xml
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/app.db
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.deps.json
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.runtimeconfig.json
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.runtimeconfig.dev.json
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ref/VentaOnlineArticulos.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.pdb
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/mscorlib.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/netstandard.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.AppContext.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Buffers.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Collections.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Configuration.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Console.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Core.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Data.Common.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Data.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Drawing.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Globalization.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Compression.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Linq.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Memory.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Http.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Mail.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Ping.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Requests.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Security.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Numerics.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ObjectModel.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Claims.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Principal.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.Json.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Transactions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.ValueTuple.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Web.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Windows.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/refs/WindowsBase.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.Views.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/VentaOnlineArticulos.Views.pdb
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Humanizer.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.csproj.AssemblyReference.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.AssemblyInfoInputs.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.AssemblyInfo.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.csproj.CoreCompileInputs.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.MvcApplicationPartsAssemblyInfo.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.MvcApplicationPartsAssemblyInfo.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.RazorAssemblyInfo.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.RazorAssemblyInfo.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/staticwebassets/VentaOnlineArticulos.StaticWebAssets.Manifest.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/staticwebassets/VentaOnlineArticulos.StaticWebAssets.xml
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/scopedcss/bundle/VentaOnlineArticulos.styles.css
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.TagHelpers.input.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.TagHelpers.output.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.RazorCoreGenerate.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/articulo/Create.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/articulo/Delete.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/articulo/Details.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/articulo/Edit.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/articulo/Index.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Articulos/Articulos.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Articulos/Principal.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Pedidos/Create.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Pedidos/Delete.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Pedidos/Details.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Pedidos/Edit.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Pedidos/Index.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.RazorTargetAssemblyInfo.cache
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.RazorTargetAssemblyInfo.cs
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.Views.pdb
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.csproj.CopyComplete
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/ref/VentaOnlineArticulos.dll
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.pdb
+/Users/steven/Projects/Steven Farulla/VentaOnlineArticulos/obj/Debug/net5.0/VentaOnlineArticulos.genruntimeconfig.cache

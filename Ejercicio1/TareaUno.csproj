@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Inicio\" />
+    <None Remove="Views\Inicio %28copia%29\" />
+    <None Remove="Views\Contactenos %28copia%29\" />
+    <None Remove="Views\Servicios %28copia%29\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Inicio\" />
+    <Folder Include="Views\Contactenos\" />
+    <Folder Include="Views\Servicios\" />
+    <Folder Include="Views\AcercaDe\" />
+    <Folder Include="wwwroot\Imagenes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\Imagenes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Update="wwwroot\Imagenes\veteq.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>
