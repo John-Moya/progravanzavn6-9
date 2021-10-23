@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aa6cS4Zf2QApJmS7b0pjT4mGQbGBV/bMv8QfWhFF121rZWmQQ3kvUToG1tJSPIZ6ZvzXZ++TOx3tKmixx0YFjQ==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\progravanzavn6-9\\Ejercicio 9\\Ejercicio 9\\Ejercicio 9\\Ejercicio 9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}

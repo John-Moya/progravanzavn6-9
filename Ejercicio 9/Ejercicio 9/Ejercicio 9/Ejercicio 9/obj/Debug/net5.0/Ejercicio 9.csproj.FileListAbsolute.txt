@@ -1,0 +1,40 @@
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\appsettings.Development.json
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\appsettings.json
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.exe
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.deps.json
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.runtimeconfig.json
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.runtimeconfig.dev.json
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.dll
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\ref\Ejercicio 9.dll
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.pdb
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.Views.dll
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\bin\Debug\net5.0\Ejercicio 9.Views.pdb
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.csproj.AssemblyReference.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.AssemblyInfoInputs.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.AssemblyInfo.cs
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.csproj.CoreCompileInputs.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.RazorAssemblyInfo.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.RazorAssemblyInfo.cs
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\staticwebassets\Ejercicio 9.StaticWebAssets.Manifest.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\staticwebassets\Ejercicio 9.StaticWebAssets.xml
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\scopedcss\bundle\Ejercicio 9.styles.css
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.TagHelpers.input.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.TagHelpers.output.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.RazorCoreGenerate.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.RazorTargetAssemblyInfo.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.RazorTargetAssemblyInfo.cs
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.Views.pdb
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.dll
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\ref\Ejercicio 9.dll
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.pdb
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.genruntimeconfig.cache
+D:\Git\progravanzavn6-9\Ejercicio 9\Ejercicio 9\Ejercicio 9\obj\Debug\net5.0\Ejercicio 9.csproj.CopyComplete
